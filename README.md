@@ -1,4 +1,4 @@
-### 🙏, I'm Matheus Medeiros
+### Hi I'm Matheus Medeiros
 
 
 ![](https://img.shields.io/badge/Gmail-dutra.mdddd%40gmail.com-red)
