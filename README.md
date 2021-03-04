@@ -1,3 +1,7 @@
+### 🙏, I'm Matheus Medeiros
+
+
+![](https://img.shields.io/badge/Gmail-dutra.mdddd%40gmail.com-red)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
