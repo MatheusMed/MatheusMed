@@ -11,6 +11,19 @@
 <p><em>Studying Analyst and systems developer, and study programming<a href="http://www.cleartax.in">...</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+
+
+```javascript
+const Matheus = {
+    askMeAbout: ["Mobile dev","Cross Platform App"],
+    technologies:{
+        backEnd: ["nodejs", "express",],
+        fronEnd: ["Flutter","React"],
+        mobileApp: ["Flutter","React Native"]
+    }
+}
+```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMed&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
