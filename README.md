@@ -2,7 +2,7 @@
 
 ## Android Developer 👨‍💻
 
-![](https://img.shields.io/badge/Gmail-dutra.mdddd%40gmail.com-red) <br>
+[![](https://img.shields.io/badge/Gmail-dutra.mdddd%40gmail.com-red)(mailto:dutra.mdddd@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-Matheus_Medeiros-blue)](https://www.linkedin.com/in/matheus-medeiros-4210871a6/) <br>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
