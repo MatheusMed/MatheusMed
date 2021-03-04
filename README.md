@@ -3,7 +3,7 @@
 ## Android Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Gmail-dutra.mdddd%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
-[![](https://img.shields.io/badge/Telegram-naveenv01-blue)](https://t.me/MtheusMdeiros)
+[![](https://img.shields.io/badge/Telegram-Matheus_Medeiros-blue)](https://t.me/MtheusMdeiros)
 [![](https://img.shields.io/badge/LinkedIn-Matheus_Medeiros-blue)](https://www.linkedin.com/in/matheus-medeiros-4210871a6/) <br>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
