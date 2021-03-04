@@ -28,10 +28,6 @@ const Matheus = {
 ```
 <br> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMed&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMed&show_icons=true&theme=dracula)
 
 
