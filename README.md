@@ -19,11 +19,7 @@
 ```javascript
 const Matheus = {
     askMeAbout: ["Mobile dev","Cross Platform App"],
-    technologies:{
-        backEnd: ["nodejs", "express",],
-        fronEnd: ["Flutter","React"],
-        mobileApp: ["Flutter","React Native"]
-    }
+    technologie: Flutter Dev
 }
 ```
 <br> <br>
