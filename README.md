@@ -1,6 +1,6 @@
 ### Hi I'm Matheus Medeiros
 
-## Android Developer 👨‍💻
+## Developer 👨‍💻
 ### Do you want to communicate with me see my social networks <br>
 [![](https://img.shields.io/badge/Gmail-dutra.mdddd%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![](https://img.shields.io/badge/Telegram-Matheus_Medeiros-blue)](https://t.me/MtheusMdeiros)
@@ -19,7 +19,7 @@
 ```javascript
 const Matheus = {
     askMeAbout: ["Mobile dev","Cross Platform App"],
-    technologie: Flutter Dev
+    technologie: Flutter Dev, JavaScript, React, React-Native
 }
 ```
 <br> <br>
