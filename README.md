@@ -18,8 +18,8 @@
 
 ```javascript
 const Matheus = {
-    askMeAbout: ["Mobile dev","Cross Platform App"],
-    technologie: ["Flutter Dev", "JavaScript", "React", "React-Native"]
+    askMeAbout: ["Mobile dev and Front-End dev","Cross Platform App"],
+    technologie: ["Flutter Dev", "JavaScript", "React JS", "React-Native", "Next Js", "Node Js"]
 }
 ```
 <br> <br>
