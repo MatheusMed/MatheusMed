@@ -19,7 +19,7 @@
 ```javascript
 const Matheus = {
     askMeAbout: ["Mobile dev and Front-End dev","Cross Platform App"],
-    technologie: ["Flutter Dev", "JavaScript", "React JS", "React-Native", "Next Js", "Node Js"]
+    technologie: ["Flutter", "Dart", "JavaScript", "React JS", "React-Native", "Next Js", "Node Js"]
 }
 ```
 <br> <br>
