@@ -5,9 +5,8 @@
 <h3>&nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Analise desenvolvimento de Sistemas** no <a href="https://www.unopar.com.br/cursos/">UnoPar</a>.
+- 🎓 &nbsp; Formado **Analise desenvolvimento de Sistemas** no <a href="https://www.unopar.com.br/cursos/">UnoPar</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Mobile / Web**
-- 🌱 &nbsp; Aprendendo mais sobre **Node JS, Next Js**.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
